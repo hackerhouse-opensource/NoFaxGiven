@@ -53,4 +53,6 @@ C:\Windows\system32>whoami
 
  ```
 
-These files are available under a Attribution-NonCommercial-NoDerivatives 4.0 International license.
+# License
+
+These files are available under the 3-clause BSD license.
